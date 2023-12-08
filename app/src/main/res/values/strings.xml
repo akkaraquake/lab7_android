@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lab7</string>
+    <string name="dialog_message">Вы уверены, что хотите выйти?</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="button_name">Открыть диалоговое окно</string>
+    <string name="display_on_activity">Отобразить текст</string>
+</resources>
